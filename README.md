@@ -23,6 +23,7 @@ PRs are welcome as long as they are not advertisements.
 ## Fake Identity
 
 - [Fake Name Generator](https://www.fakenamegenerator.com/) — Generate random fake identities with name, address, phone number, email, and other personal details for anonymous registrations.
+- [This Person Does Not Exist](https://thispersondoesnotexist.com/) — AI-generated realistic human faces for fake profile photos. Each refresh produces a unique non-existent person.
 
 ## Accounts
 
