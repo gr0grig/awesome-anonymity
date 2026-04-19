@@ -7,6 +7,7 @@ PRs are welcome as long as they are not advertisements.
 ## Contents
 
 - [SMS Verification](#sms-verification)
+- [Fake Identity](#fake-identity)
 - [Accounts](#accounts)
 - [Cryptocurrency](#cryptocurrency)
 - [Email](#email)
@@ -18,6 +19,10 @@ PRs are welcome as long as they are not advertisements.
 - [Operating Systems](#operating-systems)
 
 ---
+
+## Fake Identity
+
+- [Fake Name Generator](https://www.fakenamegenerator.com/) — Generate random fake identities with name, address, phone number, email, and other personal details for anonymous registrations.
 
 ## Accounts
 
