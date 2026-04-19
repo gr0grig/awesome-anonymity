@@ -68,6 +68,7 @@ PRs are welcome as long as they are not advertisements.
 
 ## Hosting
 
+- [Cloudzy](https://cloudzy.com/) — VPS hosting provider accepting crypto payments for anonymous server deployment.
 - [IncogNet](https://incognet.io/) — Privacy-focused hosting provider that accepts crypto and respects user anonymity.
 - [SporeStack](https://sporestack.com) — Anonymous server hosting paid with cryptocurrency, no account required.
 
