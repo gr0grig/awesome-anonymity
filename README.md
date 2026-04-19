@@ -1,4 +1,4 @@
-# awesome-anonymity
+# Awesome Anonymity
 
 A curated list of tools, services, and resources for achieving anonymity and privacy online.
 
