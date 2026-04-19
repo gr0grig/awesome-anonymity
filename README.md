@@ -83,6 +83,7 @@ PRs are welcome as long as they are not advertisements.
 
 ## Operating Systems
 
+- [GrapheneOS](https://grapheneos.org/) — Privacy and security focused mobile OS for Pixel devices, hardened Android with no Google services by default.
 - [Tails](https://tails.net/) — Portable amnesic Linux distribution that runs from USB, routes all traffic through Tor, and leaves no trace on the host machine.
 - [Whonix](https://www.whonix.org/) — Security-focused Linux distribution that runs inside a VM and routes all traffic through Tor, providing strong anonymity and IP leak protection.
 
