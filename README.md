@@ -13,7 +13,6 @@ PRs are welcome as long as they are not advertisements.
 - [Messengers](#messengers)
 - [Overlay Networks](#overlay-networks)
 - [VPN](#vpn)
-- [Browsers](#browsers)
 - [Domain Registration](#domain-registration)
 - [Web Access](#web-access)
 - [Operating Systems](#operating-systems)
@@ -45,15 +44,12 @@ PRs are welcome as long as they are not advertisements.
 ## Overlay Networks
 
 - [I2P](https://i2p.net/en/) — Anonymous overlay network for censorship-resistant communication. Still rough around the edges but worth mentioning as a Tor alternative.
+- [Tor](https://www.torproject.org/) — Privacy-focused overlay network and browser that routes traffic through multiple relays, preventing tracking and enabling access to .onion sites.
 
 ## VPN
 
 - [Amnezia VPN](https://amnezia.org/) — Trusted VPN provider with open-source clients and self-hosted server support.
 - [Red Shield VPN](https://redshieldvpn.com/) — Reliable VPN provider focused on privacy and anonymity.
-
-## Browsers
-
-- [Tor Browser](https://www.torproject.org/) — Privacy-focused browser that routes traffic through the Tor network, preventing tracking and enabling access to .onion sites.
 
 ## Domain Registration
 
