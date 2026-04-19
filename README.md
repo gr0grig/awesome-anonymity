@@ -14,6 +14,7 @@ PRs are welcome as long as they are not advertisements.
 - [Messengers](#messengers)
 - [Overlay Networks](#overlay-networks)
 - [VPN](#vpn)
+- [Proxy](#proxy)
 - [Hosting](#hosting)
 - [Domain Registration](#domain-registration)
 - [Web Access](#web-access)
@@ -58,6 +59,10 @@ PRs are welcome as long as they are not advertisements.
 
 - [Amnezia VPN](https://amnezia.org/) — Trusted VPN provider with open-source clients and self-hosted server support.
 - [Red Shield VPN](https://redshieldvpn.com/) — Reliable VPN provider focused on privacy and anonymity.
+
+## Proxy
+
+- [FineProxy](https://fineproxy.org/) — Proxy service offering residential and datacenter proxies for anonymous web browsing and scraping.
 
 ## Hosting
 
