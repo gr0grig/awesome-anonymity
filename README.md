@@ -43,6 +43,7 @@ PRs are welcome as long as they are not advertisements.
 
 ## VPN
 
+- [Amnezia VPN](https://amnezia.org/) — Trusted VPN provider with open-source clients and self-hosted server support.
 - [Red Shield VPN](https://redshieldvpn.com/) — Reliable VPN provider focused on privacy and anonymity.
 
 ## Browsers
