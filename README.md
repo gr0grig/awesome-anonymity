@@ -21,6 +21,7 @@ PRs are welcome as long as they are not advertisements.
 - [Operating Systems](#operating-systems)
 - [Encryption](#encryption)
 - [Password Managers](#password-managers)
+- [Secure Notes](#secure-notes)
 
 ---
 
@@ -92,3 +93,7 @@ PRs are welcome as long as they are not advertisements.
 ## Password Managers
 
 - [KeePassXC](https://keepassxc.org/) — Free open-source offline password manager. Cross-platform, stores everything locally with no cloud dependency.
+
+## Secure Notes
+
+- [Privnote](https://privnote.com/) — Send self-destructing notes that can only be read once. A way to share sensitive information over an open channel.
