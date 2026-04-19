@@ -6,9 +6,9 @@ PRs are welcome as long as they are not advertisements.
 
 ## Contents
 
-- [SMS Verification](#sms-verification)
 - [Fake Identity](#fake-identity)
 - [Accounts](#accounts)
+- [SMS Verification](#sms-verification)
 - [Cryptocurrency](#cryptocurrency)
 - [Email](#email)
 - [Messengers](#messengers)
