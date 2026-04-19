@@ -45,7 +45,7 @@ PRs are welcome as long as they are not advertisements.
 
 ## Domain Registration
 
-- [Njalla](https://njal.la/) — Privacy-focused domain registration service that acts as a proxy owner for your domains, keeping your identity hidden from WHOIS.
+- [Njalla](https://njal.la/) — Privacy-focused domain registration service that acts as a proxy owner for your domains, keeping your identity hidden from WHOIS. Accepts crypto payments.
 
 ## Web Access
 
@@ -53,4 +53,5 @@ PRs are welcome as long as they are not advertisements.
 
 ## Operating Systems
 
+- [Tails](https://tails.net/) — Portable amnesic Linux distribution that runs from USB, routes all traffic through Tor, and leaves no trace on the host machine.
 - [Whonix](https://www.whonix.org/) — Security-focused Linux distribution that runs inside a VM and routes all traffic through Tor, providing strong anonymity and IP leak protection.
