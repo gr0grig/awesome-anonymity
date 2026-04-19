@@ -14,6 +14,7 @@ PRs are welcome as long as they are not advertisements.
 - [Messengers](#messengers)
 - [Overlay Networks](#overlay-networks)
 - [VPN](#vpn)
+- [Hosting](#hosting)
 - [Domain Registration](#domain-registration)
 - [Web Access](#web-access)
 - [Operating Systems](#operating-systems)
@@ -57,6 +58,11 @@ PRs are welcome as long as they are not advertisements.
 
 - [Amnezia VPN](https://amnezia.org/) — Trusted VPN provider with open-source clients and self-hosted server support.
 - [Red Shield VPN](https://redshieldvpn.com/) — Reliable VPN provider focused on privacy and anonymity.
+
+## Hosting
+
+- [IncogNet](https://incognet.io/) — Privacy-focused hosting provider that accepts crypto and respects user anonymity.
+- [SporeStack](https://sporestack.com) — Anonymous server hosting paid with cryptocurrency, no account required.
 
 ## Domain Registration
 
