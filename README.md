@@ -34,6 +34,7 @@ PRs are welcome as long as they are not advertisements.
 
 ## Email
 
+- [Mail.tm](https://mail.tm/) — Free disposable email service for anonymous temporary mailboxes, no registration required.
 - [Proton Mail](https://proton.me/mail) — End-to-end encrypted email service based in Switzerland. No personal information required to sign up. Requires a small crypto donation to register on some external services.
 
 ## Messengers
