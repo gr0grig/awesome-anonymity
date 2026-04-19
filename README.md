@@ -19,6 +19,7 @@ PRs are welcome as long as they are not advertisements.
 - [Domain Registration](#domain-registration)
 - [Web Access](#web-access)
 - [Operating Systems](#operating-systems)
+- [Encryption](#encryption)
 
 ---
 
@@ -81,3 +82,7 @@ PRs are welcome as long as they are not advertisements.
 
 - [Tails](https://tails.net/) — Portable amnesic Linux distribution that runs from USB, routes all traffic through Tor, and leaves no trace on the host machine.
 - [Whonix](https://www.whonix.org/) — Security-focused Linux distribution that runs inside a VM and routes all traffic through Tor, providing strong anonymity and IP leak protection.
+
+## Encryption
+
+- [VeraCrypt](https://veracrypt.io/) — Free open-source disk encryption software. Supports full-disk encryption, hidden volumes, and plausible deniability.
