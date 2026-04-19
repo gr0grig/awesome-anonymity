@@ -11,6 +11,7 @@ PRs are welcome as long as they are not advertisements.
 - [Cryptocurrency](#cryptocurrency)
 - [Email](#email)
 - [Messengers](#messengers)
+- [Overlay Networks](#overlay-networks)
 - [VPN](#vpn)
 - [Browsers](#browsers)
 - [Domain Registration](#domain-registration)
@@ -40,6 +41,10 @@ PRs are welcome as long as they are not advertisements.
 
 - [Delta Chat](https://delta.chat/) — Decentralized messenger that works over email, requiring no phone number or central server. End-to-end encrypted via Autocrypt.
 - [OMEMO](https://omemo.top/) — End-to-end encryption protocol for XMPP/Jabber, considered one of the best ways to secure your chats with forward secrecy and deniability.
+
+## Overlay Networks
+
+- [I2P](https://i2p.net/en/) — Anonymous overlay network for censorship-resistant communication. Still rough around the edges but worth mentioning as a Tor alternative.
 
 ## VPN
 
