@@ -20,6 +20,7 @@ PRs are welcome as long as they are not advertisements.
 - [Web Access](#web-access)
 - [Operating Systems](#operating-systems)
 - [Encryption](#encryption)
+- [Password Managers](#password-managers)
 
 ---
 
@@ -86,3 +87,7 @@ PRs are welcome as long as they are not advertisements.
 ## Encryption
 
 - [VeraCrypt](https://veracrypt.io/) — Free open-source disk encryption software. Supports full-disk encryption, hidden volumes, and plausible deniability.
+
+## Password Managers
+
+- [KeePassXC](https://keepassxc.org/) — Free open-source offline password manager. Cross-platform, stores everything locally with no cloud dependency.
