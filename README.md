@@ -39,6 +39,7 @@ PRs are welcome as long as they are not advertisements.
 ## Messengers
 
 - [Delta Chat](https://delta.chat/) — Decentralized messenger that works over email, requiring no phone number or central server. End-to-end encrypted via Autocrypt.
+- [OMEMO](https://omemo.top/) — End-to-end encryption protocol for XMPP/Jabber, considered one of the best ways to secure your chats with forward secrecy and deniability.
 
 ## VPN
 
