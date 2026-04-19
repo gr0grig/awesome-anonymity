@@ -10,6 +10,7 @@ PRs are welcome as long as they are not advertisements.
 - [Accounts](#accounts)
 - [Cryptocurrency](#cryptocurrency)
 - [Email](#email)
+- [Messengers](#messengers)
 - [VPN](#vpn)
 - [Browsers](#browsers)
 - [Domain Registration](#domain-registration)
@@ -34,6 +35,10 @@ PRs are welcome as long as they are not advertisements.
 ## Email
 
 - [Proton Mail](https://proton.me/mail) — End-to-end encrypted email service based in Switzerland. No personal information required to sign up. Requires a small crypto donation to register on some external services.
+
+## Messengers
+
+- [Delta Chat](https://delta.chat/) — Decentralized messenger that works over email, requiring no phone number or central server. End-to-end encrypted via Autocrypt.
 
 ## VPN
 
