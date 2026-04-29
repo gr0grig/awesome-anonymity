@@ -98,3 +98,5 @@ PRs are welcome as long as they are not advertisements.
 ## Secure Notes
 
 - [Privnote](https://privnote.com/) — Send self-destructing notes that can only be read once. A way to share sensitive information over an open channel.
+
+* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
