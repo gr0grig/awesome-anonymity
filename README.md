@@ -90,6 +90,7 @@ PRs are welcome as long as they are not advertisements.
 ## Encryption
 
 - [VeraCrypt](https://veracrypt.io/) — Free open-source disk encryption software. Supports full-disk encryption, hidden volumes, and plausible deniability.
+- [PDF Toolbox](https://pdftoolbox.tech) — Privacy-first browser-based PDF toolkit. All processing done locally via WebAssembly — no file uploads. Encrypt, decrypt, compress, merge, split PDFs without a server seeing your documents.
 
 ## Password Managers
 
