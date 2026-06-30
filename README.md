@@ -28,6 +28,7 @@ PRs are welcome as long as they are not advertisements.
 ## Fake Identity
 
 - [Fake Name Generator](https://www.fakenamegenerator.com/) — Generate random fake identities with name, address, phone number, email, and other personal details for anonymous registrations.
+- [@RealAddrBot](https://t.me/RealAddrBot) — Free Telegram bot that generates complete synthetic identities: name, address, SSN, credit card (Luhn-valid), built-in temp email inbox on private domain. 21 countries, 12 languages. Zero logging, no tracking. [Website](https://realaddrbot.com)
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/) — AI-generated realistic human faces for fake profile photos. Each refresh produces a unique non-existent person.
 
 ## Accounts
