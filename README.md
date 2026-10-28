@@ -47,6 +47,7 @@ PRs are welcome as long as they are not advertisements.
 
 - [Mail.tm](https://mail.tm/) — Free disposable email service for anonymous temporary mailboxes, no registration required.
 - [Proton Mail](https://proton.me/mail) — End-to-end encrypted email service based in Switzerland. No personal information required to sign up. Requires a small crypto donation to register on some external services.
+- [VaelMail](https://vaelmail.com) - Privacy-first webmail authenticated with 16-digit account keys and zero phone verification. Hosted in Sweden. Includes persistent @vael.pw aliases, native Tor v3 onion routing, and Monero payment support.
 
 ## Messengers
 
