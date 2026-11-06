@@ -37,6 +37,7 @@ PRs are welcome as long as they are not advertisements.
 ## SMS Verification
 
 - [OnlineSim](https://onlinesim.io) — Online SMS receiving service for anonymous phone verification. Accepts crypto and Visa payments.
+- [SMSPing](https://smsping.net/) — Online SMS receiving service for anonymous phone verification. Accepts crypto payments (mainly USDT; also TRX, ETH, BNB).
 
 ## Cryptocurrency
 
